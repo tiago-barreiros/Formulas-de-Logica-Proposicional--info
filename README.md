@@ -201,9 +201,9 @@ Após a entrega deste projeto ficará publico :  https://github.com/tiago-barrei
 
 ## Equipa de Desenvolvimento
 
-[![Tiago Barreiros](https://avatars.githubusercontent.com/u/78179371?s=100&v=4)](https://github.com/tiago-barreiros)
----
-[Tiago Barreiros](https://github.com/tiago-barreiros)
+[![Diogo Paulo](https://cdn.discordapp.com/attachments/1050105332891926569/1135606338160959699/j3DiVZMi_400x400.jpg)](https://github.com/Diogo365)| [![Tiago Barreiros](https://avatars.githubusercontent.com/u/78179371?s=100&v=4)](https://github.com/tiago-barreiros)
+---|----------------------------------------------------------------------------------------------------------------------
+[Diogo Paulo](https://github.com/Diogo365)|[Tiago Barreiros](https://github.com/tiago-barreiros)
 
 # Orientação
 
